@@ -1,14 +1,6 @@
 # 📡 Telco Customer Churn Prediction API
 
 A production-ready REST API that predicts the probability of customer churn for a telecommunications company, built with **FastAPI** and a trained **Random Forest** classifier.
-
----
-
-## 🚀 Live Demo
-
-> **Base URL:** `https://your-app-name.onrender.com`  
-> **Interactive docs:** `https://your-app-name.onrender.com/docs`
-
 ---
 
 ## 🧠 Model Background
