@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Raw dataset — too large, belongs on Kaggle
+Telco-Customer-Churn.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables (if you add secrets later)
+.env
