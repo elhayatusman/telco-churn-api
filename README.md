@@ -65,6 +65,8 @@ uvicorn main:app --reload --port 8000
 ```
 
 ---
+## Try it out
+https://telco-churn-api-0wd3.onrender.com/docs
 
 ## 📮 API Endpoints
 
@@ -171,13 +173,3 @@ Returns model metadata, feature names, and risk tier definitions.
 
 ---
 
-## 👤 Author
-
-**Abdulrahman Hayatu Usman**  
-BSc Computer Science, Ahmadu Bello University, Zaria
-Machine Learning Engineer | DataCamp Associate Data Scientist
-
----
-
-## 📄 License
-MIT
