@@ -47,7 +47,7 @@ CUSTOMER_CHURN/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/telco-churn-api.git
+git clone https://github.com/abdulrahman-hayatu/telco-churn-api.git
 cd telco-churn-api
 
 # 2. Create and activate virtual environment
